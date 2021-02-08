@@ -9,7 +9,7 @@ class Myhashing:
         if word_hashed == hashed_text:
             print("congratulation :) , your text has been encrypted !!!!")
             print(hashed_text, " = ", word)
-            sys.exit()  # can't use break because there is no loop -> break only used with loop :)
+            sys.exit() 
         elif print("trying ", word):
             print("")
         else:
